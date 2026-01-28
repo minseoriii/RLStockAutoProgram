@@ -1,0 +1,10 @@
+# .gitignore 내용
+__pycache__/
+*.pyc
+data/
+rolling_models/
+rolling_logs/
+models_finrl/
+prac/
+.DS_Store
+.vscode/
